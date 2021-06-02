@@ -14,6 +14,7 @@ public class Computer {
 	private int year;
 	private int cost;
 	
+	
 	public String getName() {
 		return name;
 	}

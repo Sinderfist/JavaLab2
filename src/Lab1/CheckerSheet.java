@@ -5,6 +5,20 @@ public class CheckerSheet {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+//		QUESTION 1
+		
+		Computer dell = new Computer();
+		
+		dell.setName("Dell Inspiron");
+		dell.setYear(2015);
+		dell.setCost(1500);
+		
+		
+		System.out.println("//////////// Question 1 Answers Start Here //////////////////////////");
+		System.out.println(dell.getName());
+		System.out.println(dell.getYear());
+		System.out.println(dell.getCost());
+		System.out.println("//////////// Question 1 Answers End Here //////////////////////////");
 //		QUESTION 2
 		
 //		Use the constructor for students and declare a new student
